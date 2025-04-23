@@ -1,0 +1,41 @@
+_repo: Two-new-poems-b-Rohallion-the-little-dragon_75834
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Trotter, A. M. (Alexander Mason)
+    alias: Trotter, A. Mason
+    birthdate: 1891
+    deathdate: 1946
+    gutenberg_agent_id: '58174'
+    url: http://www.gutenberg.org/2009/agents/58174
+creator:
+  author:
+    agent_name: Jacob, Violet
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '7709'
+    url: http://www.gutenberg.org/2009/agents/7709
+    wikipedia: https://en.wikipedia.org/wiki/Violet_Jacob
+description: ''
+gutenberg_issued: '2025-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75834'
+language: en
+pgterms:marc904: https://digital.nls.uk/128693615
+pgterms:marc905: 20250201163050jacob
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Carol Brown, Mairi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (National Library of Scotland)
+publication_note: '  $aEdinburgh :$bThe Porpoise Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish poetry'
+- !lcsh 'English poetry -- Scottish authors'
+- !lcc 'PR'
+- GITenberg
+title: 'Two new poems : $b Rohallion; the little dragon'
+url: http://www.gutenberg.org/ebooks/75834
