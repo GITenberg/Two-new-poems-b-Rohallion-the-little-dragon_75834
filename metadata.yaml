@@ -8,6 +8,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '58174'
     url: http://www.gutenberg.org/2009/agents/58174
+covers:
+- cover_type: archival
+  image_path: 75834-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacob, Violet
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7709
     wikipedia: https://en.wikipedia.org/wiki/Violet_Jacob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75834#Two-new-poems-b-Rohallion-the-little-dragon
 gutenberg_issued: '2025-04-11'
 gutenberg_type: Text
 identifiers:
